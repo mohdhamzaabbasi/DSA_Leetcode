@@ -3,11 +3,10 @@ class Solution
 {
     public static void merge(int[] nums1, int m, int[] nums2, int n)
     {
-        int x=m+n;
         int a=0;
         int b=0;
-        int res[]=new int[x];
-        for(int i=0;i<x;i++)
+        int res[]=new int[m+n];
+        for(int i=0;i<m+n;i++)
         {
             if(a<m)
             {
