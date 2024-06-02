@@ -17,15 +17,15 @@ class Solution {
                 i++;
             }
         }      
-        int j=0;
-        for(;j<nums.length;j++)
+        i=0;
+        for(;i<nums.length;i++)
         {
-            if(nums[j]==val)
+            if(nums[i]==val)
             {
                 break;
             }
         }  
-        return j;
+        return i;
     }
 
 }
