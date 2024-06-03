@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0066-plus-one) |
 # Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 # Two Pointers
 |  |
