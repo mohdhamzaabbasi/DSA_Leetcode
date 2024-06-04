@@ -21,3 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+# String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0058-length-of-last-word) |
