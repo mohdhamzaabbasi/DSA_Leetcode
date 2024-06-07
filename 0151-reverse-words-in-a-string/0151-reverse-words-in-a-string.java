@@ -6,8 +6,7 @@ class Solution {
         while(s.indexOf(" ")!=-1)
         {
             res=res+" "+s.substring(s.lastIndexOf(" ")+1);
-            s=s.substring(0,s.lastIndexOf(" ")); 
-            s=s.trim();
+            s=s.substring(0,s.lastIndexOf(" ")).trim();
         }
         return (res+" "+s).trim();
     }
