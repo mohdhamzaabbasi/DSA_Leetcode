@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0274-h-index) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Hash Table
 |  |
 | ------- |
@@ -75,3 +77,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0274-h-index) |
+# Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
