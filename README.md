@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0392-is-subsequence) |
@@ -89,6 +91,7 @@
 # Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Prefix Sum
 |  |
