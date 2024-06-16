@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0069-sqrtx) |
@@ -48,6 +49,7 @@
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0125-valid-palindrome) |
@@ -69,6 +71,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0169-majority-element) |
 # Divide and Conquer
