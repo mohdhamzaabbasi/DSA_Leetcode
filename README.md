@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [2556-convert-the-temperature](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2556-convert-the-temperature) |
 # Array
 |  |
 | ------- |
