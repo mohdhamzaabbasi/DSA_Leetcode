@@ -58,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0392-is-subsequence) |
+| [3379-score-of-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3379-score-of-a-string) |
 # Binary Search
 |  |
 | ------- |
