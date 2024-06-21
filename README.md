@@ -59,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0392-is-subsequence) |
 | [3379-score-of-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0012-integer-to-roman](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0169-majority-element) |
+| [3412-permutation-difference-between-two-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Divide and Conquer
 |  |
 | ------- |
