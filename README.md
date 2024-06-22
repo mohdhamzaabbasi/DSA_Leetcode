@@ -58,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0392-is-subsequence) |
+| [1205-defanging-an-ip-address](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Binary Search
