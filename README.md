@@ -29,6 +29,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 # Simulation
 |  |
