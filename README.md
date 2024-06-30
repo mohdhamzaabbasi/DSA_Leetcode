@@ -157,4 +157,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
