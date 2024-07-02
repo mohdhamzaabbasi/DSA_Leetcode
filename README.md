@@ -150,6 +150,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +164,12 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
