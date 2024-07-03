@@ -174,4 +174,12 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
