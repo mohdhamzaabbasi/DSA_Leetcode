@@ -150,6 +150,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2058-concatenation-of-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -171,5 +172,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
