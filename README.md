@@ -168,6 +168,7 @@
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2491-smallest-even-multiple) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
