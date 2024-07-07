@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -187,4 +188,12 @@
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0782-jewels-and-stones) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
