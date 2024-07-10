@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2812-find-the-maximum-achievable-number](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Number Theory
 |  |
 | ------- |
