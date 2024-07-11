@@ -152,6 +152,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2058-concatenation-of-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,8 +194,13 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
