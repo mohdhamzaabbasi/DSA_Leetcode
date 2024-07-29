@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1894-merge-strings-alternately](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | ------- |
 | [0782-jewels-and-stones](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1894-merge-strings-alternately](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
