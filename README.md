@@ -154,6 +154,7 @@
 | [2058-concatenation-of-array](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2350-find-closest-number-to-zero](https://github.com/mohdhamzaabbasi/DSA_Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
